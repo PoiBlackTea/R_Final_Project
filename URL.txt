@@ -1,0 +1,2 @@
+http://www.twse.com.tw/fund/T86?response=json&date=20181207&selectType=ALL&_=1544274053449
+http://www.twse.com.tw/exchangeReport/STOCK_DAY?response=json&date=20181207&stockNo=2330&_=1544926267568
