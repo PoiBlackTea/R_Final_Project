@@ -1,5 +1,6 @@
-# R_Final_Project
-R期末專題
+# R期末專題
 
-DEMO_R_FINAL_PROJECT.R 需要URL.txt；
-2330stock-reptile.R需要URL.txt，完成後才可stock_glm.R
+----
+
+1. DEMO_R_FINAL_PROJECT.R；
+2. 先跑22330stock-reptile.R，完成後stock_glm.R
